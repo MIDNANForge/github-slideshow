@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> Gingers have no **soul**
 Use the left arrow to go back!
